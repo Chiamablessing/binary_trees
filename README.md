@@ -1,6 +1,12 @@
 # binary_trees
 
-This was a group project in which we learnt about the details, advantages, and disadvantages of using trees as data structures. We learned about how to qualify trees as well as how to traverse them. Throughout the project, we implemented binary, binary search, AVL, and Max Binary Heap trees.
+Binary tree is a tree data structure in which each node has at most two children, referred to as the left child and the right child.
+This was a group project though i worked solo, we learnt about the details, advantages, and disadvantages of using trees as data structures. We learned about how to qualify trees as well as how to traverse them.
+Recursive algorithms are commonly used to traverse, search, insert, delete, and perform various other operations on binary trees.
+* In-order Traversal
+* Pre-order Traversal
+* Post-order Traversal
+In this project, i implemented binary, binary search, AVL, and Max Binary Heap trees.
 
 ## Tests ✔️
 tests: Folder of test files for all tasks. Provided by ALX.
