@@ -81,6 +81,7 @@ void pop(levelorder_queue_t **head)
 	free(*head);
 	*head = tmp;
 }
+
 /**
  * binary_tree_is_complete - Checks if a binary tree is complete.
  * @tree: A pointer to the root node of the tree to traverse.
